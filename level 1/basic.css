@@ -1,0 +1,8 @@
+/* basic syntax of css
+selector like h1
+{
+property like color , font size etc :value of the property
+} */
+ h1{
+    color: brown;
+}
