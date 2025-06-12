@@ -3,6 +3,9 @@ selector like h1
 {
 property like color , font size etc :value of the property
 } */
+ /* 
+ used comment that can be used command plus slash */
  h1{
     color: brown;
 }
+
