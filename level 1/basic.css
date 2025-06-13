@@ -5,7 +5,22 @@ property like color , font size etc :value of the property
 } */
  /* 
  used comment that can be used command plus slash */
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ /* universal selector */
  h1{
     color: brown;
 }
+/* element selector */
+/* selectors to select a element that can help to select the element for styling
+two types of selectors first is element and second is universal(that can element full page and it low priority) 
+Id and class selector
+id is unique # can be used that for styling explain the styling and class is same in different element . can be used for style and same for all selectors
+Group selector is that used , for specify the styling
+Descendant selector it can be based only hierarchy form used nested form for style */
 
+#heading{
+    color: red;
+}
