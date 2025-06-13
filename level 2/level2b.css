@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#first{
+    height: 80px;
+    width: 250px;
+    background-color: red;
+    font-size: 30px;
+}
