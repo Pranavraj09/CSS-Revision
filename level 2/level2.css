@@ -1,0 +1,19 @@
+*{
+    margin: o;
+    padding: 0;
+}
+#first{
+    background-color: red;  
+    color: black;
+}
+#second{
+    background-color: green;
+}
+#button{
+    background-color: blue;
+    color: black ;
+}
+/* rgb color model */
+#third{
+    background-color: rgb(120, 34, 50);
+}
