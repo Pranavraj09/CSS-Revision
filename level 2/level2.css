@@ -17,3 +17,16 @@
 #third{
     background-color: rgb(120, 34, 50);
 }
+/* hex  color model */
+#fourth{
+    background-color: #12c3bd;
+}
+/* alpha model */
+#fifth{
+    background-color: rgba(255, 0, 0, 0.3);
+}
+/* pixels */
+.hello{
+    margin: 10px;
+    font-size: 20px;
+}
