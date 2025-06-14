@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: left;
+    text-decoration: overline;
+    text-transform: lowercase;
+}
+.second{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    text-align: center;
+    /* text decoration */
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.third{
+    height: 100px;
+    width: 100px;
+    background-color: lightgreen;
+    text-align: right;
+    text-decoration: line-through;
+    text-decoration-color: blueviolet;
+}
+#link{
+    text-decoration: none;
+}
+#transform{
+    text-transform: uppercase;
+}
+#lineheight{
+    line-height: 20px;
+}
